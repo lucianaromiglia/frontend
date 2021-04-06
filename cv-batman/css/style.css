@@ -1,0 +1,73 @@
+body{
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+main{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+header{
+    background-color: #ddd;
+}
+
+h1, h2 { 
+    background-color: #BFBFBF;
+    letter-spacing: 0.3em;
+    word-spacing: 1em;
+    font-weight: bolder;
+}
+
+h1{
+    color: #1F497D;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
+
+h2{
+    color: #632423;
+    font-size: 15px;
+    
+}
+
+footer{
+    background-color: #1F497D;
+    color: #ddd;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    font-size: 20px;
+}
+
+dl{
+    list-style-type: none;
+}
+
+.detalle {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.titulo{
+    font-family: Cambria, Times, serif;
+}
+
+.centrado{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon{
+    height: 16px;
+}
+
+.sangria{
+    margin-left: 30px;
+}
+
+p{
+    display: inline;
+}
